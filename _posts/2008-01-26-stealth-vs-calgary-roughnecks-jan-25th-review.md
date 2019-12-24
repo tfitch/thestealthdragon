@@ -1,0 +1,32 @@
+---
+id: 48
+title: Stealth vs. Calgary Roughnecks Jan. 25th Review
+date: 2008-01-26T17:29:45+00:00
+author: tfitch
+layout: post
+guid: http://www.thestealthdragon.com/?p=48
+permalink: /?p=48
+categories:
+  - NLL
+  - Roughnecks
+  - Stealth
+---
+Friday night was a tough 16-13 loss for the San Jose Stealth in their home opener. The Calgary Roughnecks came to San Jose and got revenge for the loss the Stealth put on them two weeks ago in Calgary.
+
+San Jose came out firing on all cylinders, the offense was crisp and scored four goals in the first five minutes of play. The remaining 55 minutes of Stealth offense was not nearly as crisp or precise. Multiple cross-crease passes were either off the mark or not caught by the player who started looking at the shot instead of watching the ball into the stick. Sadly, even more sloppy was the ground ball play by all the Stealth players. Few players were scooping the ball, most players were slapping at the ball, trying to pick the ball up with flare instead of with results. Scoop, scoop, scoop. Man ball communications. That is the way to win ground balls. Don&#8217;t poke, jab, flick and grab.
+
+In the San Jose goal Anthony Cosmo had several good saves but also let in 14 of the Roughnecks&#8217; 16 goals. Cosmo never really looked sharp and even pulled himself in the second half so Aaron Bold could come in cold and let in one goal. Jeff Shattler went from obscure in my eyes to dominate in just four quarters. Shattler&#8217;s 4 goals were the unexpected difference maker in the game.
+
+On the other end of the floor, Steve Dietrich started slow in those first five minutes, but after that only let in stellar Stealth goals. Jeff Zywicki&#8217;s pickup behind the cage and swoop around the front was fantastic. But that goal was almost the only Stealth highlight in the second half which was filled with missed passes and poor ground ball play. Calgary still employed their double teaming defense and it worked as they needed it to. Passes to the open player weren&#8217;t completed which made the execution of the double team defense look brilliant.
+
+Face-offs were controlled by Nolan Heavenor for the Roughnecks. It&#8217;s wasn&#8217;t totally dominating, but in the fourth quarter Heavenor won all the crucial face-offs that prevented the Stealth from making a come back. In transition the Stealth were out hustled by the Roughnecks. Frequent transition opportunities were converted by the Roughnecks after beating the Stealth off the bench and capitalizing on odd-man opportunities.
+
+Thankfully the refs were looser in this game that any other game I&#8217;d seen so far this year, which is typical of Rick Lum&#8217;s screw. There were several skirmishes throughout the game, but none of them escalated in to a fight. The only call that was completely blown was a Roughneck shot that went off a Stealth defender and into the crowd. It wasn&#8217;t even within 10 feet of the goal when it went off the defender but the shot clock was reset. My wife and I were right next to Lum when this happened and chewed his ass for 10 seconds to the point that he honestly turned to us for a second and then looked turned to look at the shot clock. The shot clock wasn&#8217;t corrected, but the Roughnecks didn&#8217;t score a goal either. So it didn&#8217;t hurt the Stealth. I&#8217;m just glad to know that we can get the refs attention when we need to 🙂
+
+Friday night&#8217;s game was the first home game for the Stealth under the new ownership and it was the best game presentation I have ever experienced in San Jose. It was a great leap forward! Pyrotechnics during the player introductions, young fans on the floor connecting with the team and an emcee working the crowd. We&#8217;re even starting a chant for penalized players on opposing team. San Jose had the choice of the two basics, &#8220;Get in the Box&#8221; or &#8220;Take a Seat&#8221; and we&#8217;re going with &#8220;Get in the Box&#8221;. Everyone was given a &#8220;Get In The Box&#8221; sign to hold up and at half time the instructions were given so that everyone can chant. It&#8217;s a start, we&#8217;re going to ask for a corresponding jumbotron screen to show people the when to chant so the timing is consistent. (Speaking of the jumbotron, it&#8217;s in HD now and AWESOME.)
+
+Unfortunately the weather in SJ prevented many people from coming out, which resulted in lower than expected attendance. It has been pouring down rain all day, which doesn&#8217;t sound intimidating, but days of rain here is the equivalent to a blizzard with six feet of snow in the Northeast. People in the Bay Area can&#8217;t travel in these conditions. Several fans have to travel an hour or more in good weather and tonight that drive was possibly two or three times that length because of the Friday night rush hour. So people would be driving longer than they&#8217;d be at the game. That&#8217;s a hard sell. We stayed two miles from the arena and could barely get a cab to go to the game. The first few cab companies called for us said they weren&#8217;t running any cabs that night because of the rain. Nope, it is not snow, but it&#8217;s rain that slows down California. Watching the news after the game we found out about the flood warnings. <a href="http://kntv.weatherplus.com/weathernews/15144354/detail.html?dl=mainclick" target="_new" rel="noopener noreferrer">Bay Area Storm Watch</a>. The final attendance was announced at just under 3700 which is again the worst in the league, but seriously the weather was a major factor. This won&#8217;t stop the NLL boards on wingszone.com from calling for our removal from the league immediately. Thanks guys, we really feel the love.
+
+I believe the Stealth were looking ahead to their game on Saturday with the Colorado Mammoth. The Stealth had beaten Calgary once on the road, so there was little reason to worry about them. Instead it was preparation and worrying about the team that they haven&#8217;t yet played that caused distraction. Next week the Stealth have a Thursday and Saturday double header weekend. Not preparing equally for both teams will be a major problem and losses to Eastern division teams will ensure the Stealth aren&#8217;t able to compete for the Western Division regular season title.
+
+**Game MVP:** Jeff Shattler (CGY) for his 4 goals and 4 assists.
