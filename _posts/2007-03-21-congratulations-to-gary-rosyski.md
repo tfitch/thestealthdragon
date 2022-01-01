@@ -3,9 +3,7 @@ id: 18
 title: Congratulations to Gary Rosyski
 date: 2007-03-21T21:38:35+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=16
-permalink: /?p=18
+layout: page
 categories:
   - NLL
   - Stealth

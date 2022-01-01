@@ -3,9 +3,7 @@ id: 187
 title: Extra Shooting
 date: 2009-03-06T10:46:49+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=187
-permalink: /?p=187
+layout: page
 categories:
   - NLL
   - Stealth

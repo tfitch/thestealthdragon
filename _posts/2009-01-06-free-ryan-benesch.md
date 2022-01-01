@@ -3,9 +3,7 @@ id: 124
 title: Free Ryan Benesch!
 date: 2009-01-06T23:01:30+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=124
-permalink: /?p=124
+layout: page
 categories:
   - Lumberjax
   - NLL

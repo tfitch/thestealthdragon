@@ -3,9 +3,7 @@ id: 71
 title: Stealth at Edmonton Rush March 29th Preview
 date: 2008-03-29T15:05:19+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=71
-permalink: /?p=71
+layout: page
 categories:
   - NLL
   - Rush

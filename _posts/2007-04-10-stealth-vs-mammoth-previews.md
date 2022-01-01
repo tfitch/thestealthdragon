@@ -3,9 +3,7 @@ id: 32
 title: Stealth vs Mammoth Previews
 date: 2007-04-10T22:23:16+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=30
-permalink: /?p=32
+layout: page
 categories:
   - Mammoth
   - NLL

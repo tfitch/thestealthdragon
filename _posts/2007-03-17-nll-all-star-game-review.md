@@ -3,9 +3,7 @@ id: 13
 title: NLL All-Star game review
 date: 2007-03-17T15:18:33+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=12
-permalink: /?p=13
+layout: page
 categories:
   - NLL
 ---

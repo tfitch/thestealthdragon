@@ -3,9 +3,7 @@ id: 15
 title: 'Round 1: Stealth vs. Lumberjax &#8211; Point Stealth'
 date: 2007-03-18T01:05:00+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=13
-permalink: /?p=15
+layout: page
 categories:
   - NLL
   - Stealth

@@ -3,9 +3,7 @@ id: 107
 title: Welcome Paul Rabil
 date: 2009-01-01T21:08:23+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=107
-permalink: /?p=107
+layout: page
 categories:
   - NLL
   - Stealth

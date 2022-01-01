@@ -3,9 +3,7 @@ id: 185
 title: 'West Power Ranking 2009 #2'
 date: 2009-02-28T10:11:09+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=185
-permalink: /?p=185
+layout: page
 categories:
   - Lumberjax
   - Mammoth

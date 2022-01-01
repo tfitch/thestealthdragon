@@ -3,9 +3,7 @@ id: 245
 title: Twice is Nice
 date: 2009-12-05T23:42:34+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=245
-permalink: /?p=245
+layout: page
 categories:
   - NLL
   - Stealth

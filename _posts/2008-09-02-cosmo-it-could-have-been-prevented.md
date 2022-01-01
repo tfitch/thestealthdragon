@@ -4,9 +4,7 @@ title: 'Cosmo &#8211; it could have been prevented'
 date: 2008-09-02T21:43:43+00:00
 author: tfitch
 excerpt: "I definitely needed to think about the Cosmo trade for several days before I felt I could write it up.  My main point of concern with the trade of Anthony Cosmo from San Jose to Chicago isn't related to the movement of the players involved but the player was traded almost purely because he has a life outside of lacrosse."
-layout: post
-guid: http://www.thestealthdragon.com/?p=84
-permalink: /?p=84
+layout: page
 categories:
   - NLL
   - Stealth

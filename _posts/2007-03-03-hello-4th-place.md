@@ -3,9 +3,7 @@ id: 10
 title: Hello 4th Place
 date: 2007-03-03T01:20:16+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=8
-permalink: /?p=10
+layout: page
 categories:
   - NLL
   - Stealth

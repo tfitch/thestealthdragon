@@ -3,9 +3,7 @@ id: 110
 title: 'Colin Doyle two years later &#8211; Thank You Colin'
 date: 2009-01-01T21:47:12+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=110
-permalink: /?p=110
+layout: page
 categories:
   - NLL
   - Stealth

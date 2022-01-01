@@ -3,9 +3,7 @@ id: 9
 title: Stealth at Edmonton Rush Preview
 date: 2007-03-01T13:26:23+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=7
-permalink: /?p=9
+layout: page
 categories:
   - NLL
   - Stealth

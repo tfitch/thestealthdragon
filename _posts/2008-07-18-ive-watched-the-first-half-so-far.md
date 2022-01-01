@@ -3,9 +3,7 @@ id: 81
 title: 'I&#8217;ve watched the first half so far'
 date: 2008-07-18T22:35:03+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=81
-permalink: /?p=81
+layout: page
 categories:
   - Lumberjax
   - NLL

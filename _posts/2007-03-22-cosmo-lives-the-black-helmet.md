@@ -3,9 +3,7 @@ id: 19
 title: 'Cosmo Lives: The Black Helmet'
 date: 2007-03-22T00:48:36+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=17
-permalink: /?p=19
+layout: page
 categories:
   - NLL
   - Stealth

@@ -3,9 +3,7 @@ id: 36
 title: 'First Round Victory: Stealth @ Mammoth Playoff Review'
 date: 2007-04-27T10:54:26+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=34
-permalink: /?p=36
+layout: page
 categories:
   - Mammoth
   - NLL

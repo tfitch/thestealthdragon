@@ -3,9 +3,7 @@ id: 152
 title: West Power Rankings Week 3 2009
 date: 2009-01-17T23:57:58+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=152
-permalink: /?p=152
+layout: page
 categories:
   - Lumberjax
   - Mammoth

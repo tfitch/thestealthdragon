@@ -3,9 +3,7 @@ id: 39
 title: San Jose Stealth 2008 Preview
 date: 2008-01-08T23:53:39+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=38
-permalink: /?p=39
+layout: page
 categories:
   - NLL
   - Stealth

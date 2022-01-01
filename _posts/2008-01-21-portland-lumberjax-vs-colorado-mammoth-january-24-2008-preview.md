@@ -3,9 +3,7 @@ id: 44
 title: 'Portland Lumberjax vs Colorado Mammoth &#8211; January 24, 2008 Preview'
 date: 2008-01-21T21:34:48+00:00
 author: zeboim
-layout: post
-guid: http://www.thestealthdragon.com/?p=44
-permalink: /?p=44
+layout: page
 categories:
   - Lumberjax
   - Mammoth

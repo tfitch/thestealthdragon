@@ -3,9 +3,7 @@ id: 179
 title: 'Question: Friend or Foe?'
 date: 2009-02-11T11:40:43+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=179
-permalink: /?p=179
+layout: page
 categories:
   - Lumberjax
   - NLL

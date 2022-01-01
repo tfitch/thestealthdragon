@@ -3,9 +3,7 @@ id: 16
 title: MLL in HDTV!!!
 date: 2007-03-18T16:51:32+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=14
-permalink: /?p=16
+layout: page
 categories:
   - MLL
 ---

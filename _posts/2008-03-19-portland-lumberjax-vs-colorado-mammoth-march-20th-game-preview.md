@@ -3,9 +3,7 @@ id: 67
 title: Portland Lumberjax vs Colorado Mammoth March 20th Game Preview
 date: 2008-03-19T23:43:27+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=67
-permalink: /?p=67
+layout: page
 categories:
   - Lumberjax
   - Mammoth

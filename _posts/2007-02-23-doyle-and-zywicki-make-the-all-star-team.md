@@ -3,9 +3,7 @@ id: 314
 title: Doyle and Zywicki make the All-Star team
 date: 2007-02-23T01:37:59+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=3
-permalink: /?p=314
+layout: page
 categories:
   - NLL
   - Stealth

@@ -3,9 +3,7 @@ id: 47
 title: Tree Sighting
 date: 2008-01-26T17:25:49+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=47
-permalink: /?p=47
+layout: page
 categories:
   - Mammoth
 ---

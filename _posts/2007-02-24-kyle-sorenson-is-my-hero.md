@@ -3,9 +3,7 @@ id: 7
 title: Kyle Sorenson is my hero!
 date: 2007-02-24T22:48:17+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=5
-permalink: /?p=7
+layout: page
 categories:
   - NLL
   - Stealth

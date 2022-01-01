@@ -3,9 +3,7 @@ id: 40
 title: Stealth @ Calgary Roughnecks Jan. 12th Preview
 date: 2008-01-09T15:28:47+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=39
-permalink: /?p=40
+layout: page
 categories:
   - NLL
   - Roughnecks

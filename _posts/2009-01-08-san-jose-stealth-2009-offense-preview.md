@@ -3,9 +3,7 @@ id: 127
 title: San Jose Stealth 2009 Offense Preview
 date: 2009-01-08T22:52:07+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=127
-permalink: /?p=127
+layout: page
 categories:
   - NLL
   - Stealth

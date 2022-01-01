@@ -3,9 +3,7 @@ id: 96
 title: 'HEY RABIL &#038; HUNTLEY!'
 date: 2008-11-09T01:14:50+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=96
-permalink: /?p=96
+layout: page
 categories:
   - NLL
   - Stealth

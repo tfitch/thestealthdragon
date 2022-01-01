@@ -3,9 +3,7 @@ id: 119
 title: Minnesota Swarm at Portland Lumberjax January 3rd Game Review
 date: 2009-01-05T01:28:15+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=119
-permalink: /?p=119
+layout: page
 categories:
   - Lumberjax
   - NLL

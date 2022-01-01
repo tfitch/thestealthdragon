@@ -3,9 +3,7 @@ id: 46
 title: Keenan is mean again!!!
 date: 2008-01-26T17:24:53+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=46
-permalink: /?p=46
+layout: page
 categories:
   - Lumberjax
 ---

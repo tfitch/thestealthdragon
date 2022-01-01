@@ -3,9 +3,7 @@ id: 79
 title: Stealth vs. Colorado Mammoth April 26th Review
 date: 2008-05-02T19:10:56+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=79
-permalink: /?p=79
+layout: page
 categories:
   - Mammoth
   - NLL

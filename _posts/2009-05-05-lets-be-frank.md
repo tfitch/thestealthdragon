@@ -3,9 +3,7 @@ id: 218
 title: 'Let&#8217;s be Frank'
 date: 2009-05-05T10:13:29+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=218
-permalink: /?p=218
+layout: page
 categories:
   - NLL
   - Stealth

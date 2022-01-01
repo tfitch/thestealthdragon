@@ -3,9 +3,7 @@ id: 35
 title: 'Game Time!  Stealth at Mammoth Playoff Preview'
 date: 2007-04-20T21:16:08+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=33
-permalink: /?p=35
+layout: page
 categories:
   - Mammoth
   - NLL

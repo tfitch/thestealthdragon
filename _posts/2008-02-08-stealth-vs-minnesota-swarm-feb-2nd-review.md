@@ -3,9 +3,7 @@ id: 55
 title: Stealth vs. Minnesota Swarm Feb 2nd Review
 date: 2008-02-08T11:00:42+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=55
-permalink: /?p=55
+layout: page
 categories:
   - NLL
   - Stealth

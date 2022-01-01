@@ -3,9 +3,7 @@ id: 11
 title: NLL All-Star Skills Competition review
 date: 2007-03-16T22:18:28+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=10
-permalink: /?p=11
+layout: page
 categories:
   - NLL
 ---

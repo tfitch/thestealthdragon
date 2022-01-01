@@ -3,9 +3,7 @@ id: 6
 title: Stealth at NY Titans Preview
 date: 2007-02-24T01:10:04+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=4
-permalink: /?p=6
+layout: page
 categories:
   - NLL
   - Stealth

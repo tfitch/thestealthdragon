@@ -3,9 +3,7 @@ id: 177
 title: Watch the Stealth tonight (or any night)
 date: 2009-02-07T11:59:32+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=177
-permalink: /?p=177
+layout: page
 categories:
   - NLL
   - Stealth

@@ -3,9 +3,7 @@ id: 76
 title: Stealth vs Portland Lumberjax April 18th Preview
 date: 2008-04-18T16:21:44+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=76
-permalink: /?p=76
+layout: page
 categories:
   - Lumberjax
   - NLL

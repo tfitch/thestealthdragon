@@ -3,9 +3,7 @@ id: 257
 title: Coach Walt is back!!!
 date: 2009-12-12T01:18:05+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=257
-permalink: /?p=257
+layout: page
 categories:
   - Stealth
   - WLA

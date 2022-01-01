@@ -3,9 +3,7 @@ id: 56
 title: Stealth vs. Chicago Shamrox Feb 9th. Preview
 date: 2008-02-09T08:47:14+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=56
-permalink: /?p=56
+layout: page
 categories:
   - NLL
   - Shamrox

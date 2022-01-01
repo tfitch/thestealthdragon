@@ -3,9 +3,7 @@ id: 20
 title: Mikey Powell makes MLL news
 date: 2007-03-22T13:02:35+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=18
-permalink: /?p=20
+layout: page
 categories:
   - MLL
 ---

@@ -3,9 +3,7 @@ id: 57
 title: 'Edmonton Rush at Portland Lumberjax &#8211; Sunday February 17, 2008'
 date: 2008-02-15T22:35:02+00:00
 author: zeboim
-layout: post
-guid: http://www.thestealthdragon.com/?p=57
-permalink: /?p=57
+layout: page
 categories:
   - Lumberjax
   - NLL

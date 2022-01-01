@@ -3,9 +3,7 @@ id: 134
 title: 'Stealth 2009 Defense Preview &#8211; part 1'
 date: 2009-01-09T00:59:02+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=134
-permalink: /?p=134
+layout: page
 categories:
   - NLL
   - Stealth

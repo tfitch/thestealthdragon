@@ -3,9 +3,7 @@ id: 90
 title: How big is Rabil?
 date: 2008-10-06T23:50:16+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=90
-permalink: /?p=90
+layout: page
 categories:
   - NLL
   - Stealth

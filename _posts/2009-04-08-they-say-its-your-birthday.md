@@ -3,9 +3,7 @@ id: 201
 title: 'They Say It&#8217;s Your Birthday!'
 date: 2009-04-08T10:00:56+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=201
-permalink: /?p=201
+layout: page
 categories:
   - NLL
   - Stealth

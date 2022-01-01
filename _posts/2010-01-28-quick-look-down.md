@@ -3,9 +3,7 @@ id: 306
 title: Quick, look down!
 date: 2010-01-28T00:45:22+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=306
-permalink: /?p=306
+layout: page
 categories:
   - NLL
   - Stealth

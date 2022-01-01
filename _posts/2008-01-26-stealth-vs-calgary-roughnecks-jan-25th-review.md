@@ -3,9 +3,7 @@ id: 48
 title: Stealth vs. Calgary Roughnecks Jan. 25th Review
 date: 2008-01-26T17:29:45+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=48
-permalink: /?p=48
+layout: page
 categories:
   - NLL
   - Roughnecks

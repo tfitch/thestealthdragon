@@ -3,9 +3,7 @@ id: 98
 title: Dear Chicago
 date: 2008-12-30T18:17:49+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=98
-permalink: /?p=98
+layout: page
 categories:
   - NLL
   - Shamrox

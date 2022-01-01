@@ -3,9 +3,7 @@ id: 21
 title: 'Round 2: Stealth at Lumberjax &#8211; Point Stealth (2-0)'
 date: 2007-03-24T21:02:12+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=19
-permalink: /?p=21
+layout: page
 categories:
   - NLL
   - Stealth

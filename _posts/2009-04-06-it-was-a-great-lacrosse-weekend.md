@@ -3,9 +3,7 @@ id: 199
 title: It was a great lacrosse weekend
 date: 2009-04-06T14:38:36+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=199
-permalink: /?p=199
+layout: page
 categories:
   - Lumberjax
   - NLL

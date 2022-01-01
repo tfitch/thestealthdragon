@@ -3,9 +3,7 @@ id: 264
 title: 'It&#8217;s happened before'
 date: 2009-12-14T23:18:10+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=264
-permalink: /?p=264
+layout: page
 categories:
   - NLL
   - Rock

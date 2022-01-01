@@ -3,9 +3,7 @@ id: 160
 title: Win a Date with Colin Doyle
 date: 2009-01-29T22:19:34+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=160
-permalink: /?p=160
+layout: page
 categories:
   - NLL
   - Rush

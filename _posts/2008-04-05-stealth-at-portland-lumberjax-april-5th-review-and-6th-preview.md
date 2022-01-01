@@ -3,9 +3,7 @@ id: 75
 title: Stealth at Portland Lumberjax April 5th Review and 6th Preview
 date: 2008-04-05T23:33:18+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=75
-permalink: /?p=75
+layout: page
 categories:
   - Lumberjax
   - NLL

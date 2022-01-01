@@ -3,9 +3,7 @@ id: 72
 title: 'Sean Morris &#8211; Rookie of the Week'
 date: 2008-03-29T16:24:53+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=72
-permalink: /?p=72
+layout: page
 categories:
   - NLL
   - Stealth

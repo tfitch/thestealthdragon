@@ -3,9 +3,7 @@ id: 53
 title: Stealth at New York Titans Jan 31st Review
 date: 2008-02-01T23:34:47+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=53
-permalink: /?p=53
+layout: page
 categories:
   - NLL
   - Stealth

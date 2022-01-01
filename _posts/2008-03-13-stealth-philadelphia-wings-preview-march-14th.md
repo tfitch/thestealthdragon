@@ -3,9 +3,7 @@ id: 65
 title: Stealth @ Philadelphia Wings Preview March 14th
 date: 2008-03-13T21:29:13+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=65
-permalink: /?p=65
+layout: page
 categories:
   - NLL
   - Stealth

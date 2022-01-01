@@ -3,9 +3,7 @@ id: 143
 title: San Jose Stealth at Minnesota Swarm January 10th Game Preview
 date: 2009-01-10T15:08:37+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=143
-permalink: /?p=143
+layout: page
 categories:
   - NLL
 ---

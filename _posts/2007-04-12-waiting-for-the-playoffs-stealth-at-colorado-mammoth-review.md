@@ -3,9 +3,7 @@ id: 33
 title: 'Waiting for the Playoffs &#8211; Stealth at Colorado Mammoth Review'
 date: 2007-04-12T21:58:24+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=31
-permalink: /?p=33
+layout: page
 categories:
   - Mammoth
   - NLL

@@ -3,9 +3,7 @@ id: 58
 title: Lumberjax vs. Calgary Roughnecks Feb 22nd Preview
 date: 2008-02-22T16:34:13+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=58
-permalink: /?p=58
+layout: page
 categories:
   - Lumberjax
   - NLL

@@ -3,9 +3,7 @@ id: 277
 title: Well Endorsed Players
 date: 2010-01-11T00:44:07+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=277
-permalink: /?p=277
+layout: page
 categories:
   - NLL
 tags:

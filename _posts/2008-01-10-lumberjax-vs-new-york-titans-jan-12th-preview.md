@@ -3,9 +3,7 @@ id: 41
 title: Lumberjax vs. New York Titans Jan. 12th Preview
 date: 2008-01-10T18:21:22+00:00
 author: tfitch
-layout: post
-guid: http://www.thestealthdragon.com/?p=40
-permalink: /?p=41
+layout: page
 categories:
   - Lumberjax
   - NLL
