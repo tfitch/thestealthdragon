@@ -3,7 +3,7 @@ id: 68
 title: 'Colorado Mammoth at Portland Lumberjax &#8211; March 20, 2008 Game Review'
 date: 2008-03-21T15:44:32+00:00
 author: zeboim
-layout: page
+layout: post
 categories:
   - Lumberjax
   - Mammoth

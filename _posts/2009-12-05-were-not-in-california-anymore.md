@@ -3,7 +3,7 @@ id: 235
 title: 'We&#8217;re not in California anymore'
 date: 2009-12-05T14:56:59+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

@@ -3,7 +3,7 @@ id: 10
 title: Hello 4th Place
 date: 2007-03-03T01:20:16+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

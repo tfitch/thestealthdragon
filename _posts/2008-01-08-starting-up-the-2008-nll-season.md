@@ -3,7 +3,7 @@ id: 38
 title: Starting up the 2008 NLL Season
 date: 2008-01-08T14:29:02+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Lumberjax
   - NLL

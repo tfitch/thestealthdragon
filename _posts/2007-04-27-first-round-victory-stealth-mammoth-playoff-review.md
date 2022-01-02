@@ -3,7 +3,7 @@ id: 36
 title: 'First Round Victory: Stealth @ Mammoth Playoff Review'
 date: 2007-04-27T10:54:26+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Mammoth
   - NLL

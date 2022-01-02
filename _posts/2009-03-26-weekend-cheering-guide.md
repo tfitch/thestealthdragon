@@ -3,7 +3,7 @@ id: 194
 title: Weekend Cheering Guide
 date: 2009-03-26T15:37:51+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Lumberjax
   - NLL

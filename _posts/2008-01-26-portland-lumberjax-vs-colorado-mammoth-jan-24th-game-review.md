@@ -3,7 +3,7 @@ id: 50
 title: Portland Lumberjax vs Colorado Mammoth Jan. 24th Game Review
 date: 2008-01-26T17:35:14+00:00
 author: zeboim
-layout: page
+layout: post
 categories:
   - Lumberjax
   - Mammoth

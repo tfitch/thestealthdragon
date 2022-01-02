@@ -3,7 +3,7 @@ id: 43
 title: Stealth at Calgary Roughnecks Review
 date: 2008-01-14T12:03:02+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Roughnecks

@@ -3,7 +3,7 @@ id: 31
 title: 'Playoffs Secured &#8211; Stealth vs. Edmonton Rush April 7th Review'
 date: 2007-04-08T01:15:54+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Rush

@@ -3,7 +3,7 @@ id: 312
 title: 2 Stealth are Week 3 NLL Players of the Week
 date: 2010-01-31T00:18:03+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

@@ -3,7 +3,7 @@ id: 98
 title: Dear Chicago
 date: 2008-12-30T18:17:49+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Shamrox

@@ -3,7 +3,7 @@ id: 277
 title: Well Endorsed Players
 date: 2010-01-11T00:44:07+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
 tags:

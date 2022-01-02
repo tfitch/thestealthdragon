@@ -3,7 +3,7 @@ id: 166
 title: What to Expect When You Play the Portland Lumberjax
 date: 2009-02-05T21:45:33+00:00
 author: zeboim
-layout: page
+layout: post
 categories:
   - Lumberjax
   - NLL

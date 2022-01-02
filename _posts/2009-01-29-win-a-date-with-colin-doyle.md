@@ -3,7 +3,7 @@ id: 160
 title: Win a Date with Colin Doyle
 date: 2009-01-29T22:19:34+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Rush

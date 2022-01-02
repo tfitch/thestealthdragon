@@ -3,7 +3,7 @@ id: 46
 title: Keenan is mean again!!!
 date: 2008-01-26T17:24:53+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Lumberjax
 ---

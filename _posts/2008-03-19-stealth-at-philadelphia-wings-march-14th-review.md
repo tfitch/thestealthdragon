@@ -3,7 +3,7 @@ id: 66
 title: Stealth at Philadelphia Wings March 14th Review
 date: 2008-03-19T22:53:30+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

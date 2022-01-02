@@ -3,7 +3,7 @@ id: 110
 title: 'Colin Doyle two years later &#8211; Thank You Colin'
 date: 2009-01-01T21:47:12+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

@@ -3,7 +3,7 @@ id: 81
 title: 'I&#8217;ve watched the first half so far'
 date: 2008-07-18T22:35:03+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Lumberjax
   - NLL

@@ -3,7 +3,7 @@ id: 163
 title: 'Yes We Cam!  (Yes They Did)'
 date: 2009-02-01T01:49:12+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

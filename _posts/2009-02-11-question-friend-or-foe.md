@@ -3,7 +3,7 @@ id: 179
 title: 'Question: Friend or Foe?'
 date: 2009-02-11T11:40:43+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Lumberjax
   - NLL

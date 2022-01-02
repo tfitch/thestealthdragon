@@ -3,7 +3,7 @@ id: 54
 title: Stealth vs. Minnesota Swarm Feb 2nd Preview
 date: 2008-02-02T11:09:34+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

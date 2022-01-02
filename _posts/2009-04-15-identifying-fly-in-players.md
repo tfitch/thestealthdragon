@@ -3,7 +3,7 @@ id: 211
 title: Identifying Fly-in Players
 date: 2009-04-15T19:46:03+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

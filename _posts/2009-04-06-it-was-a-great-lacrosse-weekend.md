@@ -3,7 +3,7 @@ id: 199
 title: It was a great lacrosse weekend
 date: 2009-04-06T14:38:36+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Lumberjax
   - NLL

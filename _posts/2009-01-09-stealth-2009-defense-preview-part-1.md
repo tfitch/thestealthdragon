@@ -3,7 +3,7 @@ id: 134
 title: 'Stealth 2009 Defense Preview &#8211; part 1'
 date: 2009-01-09T00:59:02+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth
@@ -34,7 +34,7 @@ Despite only having four defensive runners returning, assistant coach Canadian L
 
 I expect Curtis Hodgson to step up and be the new anchor for the defense this season. He&#8217;s matured the past few seasons and has had outstanding summers in the WLA playing for the Burnaby Lakers. Curtis is the two time defending Gord Nicholson &#8211; Defensive Player of the Year in the WLA. So despite Eric Martin getting most of the press as the Stealth&#8217;s top defender, Curtis has a strong argument and a couple pieces of hardware to show that he&#8217;s just as good. Kyle Sorensen is the highest selected player in the 2006 entry draft that <a href="http://thestealthdragon.com/free-ryan-benesch/" target="_blank" rel="noopener noreferrer">is still playing every week</a> and if he only does one thing this season I hope it&#8217;s beating up Ryan Boyle again in New York.  
   
-<span style="font-size: xx-small;">Watch <a href="http://www.veoh.com/videos/v378091hGYnfT7d">NLL Fight Sorensen vs Boyle 02/24/2007</a> in <a href="http://www.veoh.com/browse/videos.html?category=category_sports">Sports Online</a> |  View More <a href="http://www.veoh.com/">Free Videos Online at Veoh.com</a></span>
+<span style="font-size: xx-small;">Watch <a href="http://www.veoh.com/videos/v378091hGYnfT7d">NLL Fight Sorensen vs Boyle 02/24/2007</a> in <a href="http://www.veoh.com/browse/videos.html?category=category_sports">Sports Online</a> | View More <a href="http://www.veoh.com/">Free Videos Online at Veoh.com</a></span>
 
 The two biggest surprises to me were the release of Andrew Guindon and Steve Panarelli being acquired by Boston, then released and the Stealth not reacquiring him. I love the performance of both of them, especially Guindon and I&#8217;m sad to not see them playing for the Stealth this season. Since no one has picked up Guindon I suspect he&#8217;s had some stuff going on in his life outside of lacrosse that&#8217;s preventing him from playing this year. Good luck Andrew with whatever you&#8217;ve got going on. It&#8217;s something I&#8217;ll definitely being asking about this weekend if I get any contact with the team. Panarelli was just picked up today to the Philadelphia Wings practice roster and I give it two weeks before he&#8217;s on the active roster and on the floor.
 

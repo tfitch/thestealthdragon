@@ -3,7 +3,7 @@ id: 185
 title: 'West Power Ranking 2009 #2'
 date: 2009-02-28T10:11:09+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Lumberjax
   - Mammoth

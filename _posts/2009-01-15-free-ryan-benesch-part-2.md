@@ -3,7 +3,7 @@ id: 149
 title: 'Free Ryan Benesch!  (part 2)'
 date: 2009-01-15T11:36:47+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Rock

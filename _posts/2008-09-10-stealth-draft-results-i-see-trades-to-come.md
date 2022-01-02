@@ -7,7 +7,7 @@ excerpt: |
   Luke Wiles is headed to Toronto for the #5 pick.
   
   The Stealth selected Paul Rabil, Rhys Duch and Kevin Huntley.  Not the three I expected and maybe not the three that'll he around by opening day...
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

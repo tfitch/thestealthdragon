@@ -3,7 +3,7 @@ id: 218
 title: 'Let&#8217;s be Frank'
 date: 2009-05-05T10:13:29+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

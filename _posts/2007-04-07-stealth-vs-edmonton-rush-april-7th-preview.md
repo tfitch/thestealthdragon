@@ -3,7 +3,7 @@ id: 30
 title: Stealth vs Edmonton Rush April 7th Preview
 date: 2007-04-07T14:41:53+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Rush

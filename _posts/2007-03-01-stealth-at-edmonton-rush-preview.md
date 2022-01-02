@@ -3,7 +3,7 @@ id: 9
 title: Stealth at Edmonton Rush Preview
 date: 2007-03-01T13:26:23+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

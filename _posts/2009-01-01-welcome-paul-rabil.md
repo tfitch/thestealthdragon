@@ -3,7 +3,7 @@ id: 107
 title: Welcome Paul Rabil
 date: 2009-01-01T21:08:23+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

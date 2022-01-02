@@ -3,7 +3,7 @@ id: 17
 title: Stealth at Portland Lumberjax March 24th Preview
 date: 2007-03-21T21:29:39+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

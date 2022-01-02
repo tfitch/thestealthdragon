@@ -3,7 +3,7 @@ id: 37
 title: 'Western Finals: Stealth @ Arizona String Preview'
 date: 2007-04-27T11:04:21+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

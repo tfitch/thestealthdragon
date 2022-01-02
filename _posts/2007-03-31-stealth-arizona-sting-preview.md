@@ -3,7 +3,7 @@ id: 25
 title: Stealth @ Arizona Sting Preview
 date: 2007-03-31T18:35:49+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

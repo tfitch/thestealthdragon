@@ -3,7 +3,7 @@ id: 71
 title: Stealth at Edmonton Rush March 29th Preview
 date: 2008-03-29T15:05:19+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Rush

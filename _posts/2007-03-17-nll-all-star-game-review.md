@@ -3,7 +3,7 @@ id: 13
 title: NLL All-Star game review
 date: 2007-03-17T15:18:33+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
 ---

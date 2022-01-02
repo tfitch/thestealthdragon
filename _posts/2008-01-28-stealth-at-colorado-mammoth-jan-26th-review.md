@@ -3,7 +3,7 @@ id: 51
 title: Stealth at Colorado Mammoth Jan. 26th Review
 date: 2008-01-28T23:58:19+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Lumberjax
   - Mammoth

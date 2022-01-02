@@ -3,7 +3,7 @@ id: 191
 title: 'Breakin&#8217; out Buttons'
 date: 2009-03-16T09:55:09+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

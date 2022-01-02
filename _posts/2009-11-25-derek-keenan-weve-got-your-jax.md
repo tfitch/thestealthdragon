@@ -3,7 +3,7 @@ id: 222
 title: 'Derek Keenan: We&#8217;ve got your Jax'
 date: 2009-11-25T02:17:24+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Rush

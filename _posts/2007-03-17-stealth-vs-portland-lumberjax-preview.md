@@ -3,7 +3,7 @@ id: 14
 title: Stealth vs. Portland Lumberjax Preview
 date: 2007-03-17T15:56:53+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

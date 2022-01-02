@@ -3,7 +3,7 @@ id: 18
 title: Congratulations to Gary Rosyski
 date: 2007-03-21T21:38:35+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

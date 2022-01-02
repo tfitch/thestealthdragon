@@ -3,7 +3,7 @@ id: 264
 title: 'It&#8217;s happened before'
 date: 2009-12-14T23:18:10+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Rock

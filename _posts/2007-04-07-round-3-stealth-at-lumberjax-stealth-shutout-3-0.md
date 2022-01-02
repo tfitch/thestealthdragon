@@ -3,7 +3,7 @@ id: 29
 title: 'Round 3: Stealth at Lumberjax &#8211; Stealth Shutout (3-0)'
 date: 2007-04-07T14:32:37+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Lumberjax
   - NLL

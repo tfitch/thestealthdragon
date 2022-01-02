@@ -3,7 +3,7 @@ id: 282
 title: 2010 Opening Weekend Recap
 date: 2010-01-14T14:58:00+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Mammoth
   - NLL

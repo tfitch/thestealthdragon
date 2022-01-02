@@ -3,7 +3,7 @@ id: 42
 title: Lumberjax vs. New York Titans Review
 date: 2008-01-13T23:09:39+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Lumberjax
   - NLL

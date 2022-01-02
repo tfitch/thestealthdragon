@@ -3,7 +3,7 @@ id: 72
 title: 'Sean Morris &#8211; Rookie of the Week'
 date: 2008-03-29T16:24:53+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

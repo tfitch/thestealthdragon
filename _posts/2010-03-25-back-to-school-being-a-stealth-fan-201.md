@@ -3,7 +3,7 @@ id: 315
 title: 'Back to School: Being a Stealth Fan 201'
 date: 2010-03-25T09:58:36+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Mammoth
   - NLL

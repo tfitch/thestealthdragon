@@ -3,7 +3,7 @@ id: 11
 title: NLL All-Star Skills Competition review
 date: 2007-03-16T22:18:28+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
 ---

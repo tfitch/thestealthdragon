@@ -3,7 +3,7 @@ id: 24
 title: Crazy Friday Games
 date: 2007-03-30T23:16:55+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
 ---

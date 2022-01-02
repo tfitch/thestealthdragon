@@ -4,7 +4,7 @@ title: Missing Cosmo
 date: 2008-08-30T17:15:28+00:00
 author: zeboim
 excerpt: 'I spent the entire day yesterday mourning the trade of <a href="http://www.nll.com/community/index.php?option=com_comprofiler&task=userProfile&user=1051331%26seasonid=1995">Anthony Cosmo</a> from the <a href="http://www.sjstealth.com/index2.html">San Jose Stealth</a> to the <a href="http://www.chicagoshamrox.com/home.html">Chicago Shamrox</a>.'
-layout: page
+layout: post
 categories:
   - NLL
   - Shamrox

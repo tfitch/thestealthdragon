@@ -3,7 +3,7 @@ id: 32
 title: Stealth vs Mammoth Previews
 date: 2007-04-10T22:23:16+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Mammoth
   - NLL

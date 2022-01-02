@@ -3,7 +3,7 @@ id: 19
 title: 'Cosmo Lives: The Black Helmet'
 date: 2007-03-22T00:48:36+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

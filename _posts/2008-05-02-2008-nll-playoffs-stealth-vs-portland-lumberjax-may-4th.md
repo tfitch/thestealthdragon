@@ -3,7 +3,7 @@ id: 80
 title: '2008 NLL Playoffs &#8211; Stealth vs. Portland Lumberjax May 4th'
 date: 2008-05-02T23:25:22+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Lumberjax
   - NLL

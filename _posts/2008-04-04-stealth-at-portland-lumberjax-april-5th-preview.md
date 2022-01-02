@@ -3,7 +3,7 @@ id: 74
 title: Stealth at Portland Lumberjax April 5th Preview
 date: 2008-04-04T21:57:00+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Lumberjax
   - NLL

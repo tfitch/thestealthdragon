@@ -3,7 +3,7 @@ id: 34
 title: 'Warming Up &#8211; Stealth vs. Colorado Mammoth Review'
 date: 2007-04-18T20:45:10+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Mammoth
   - NLL

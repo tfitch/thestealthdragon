@@ -3,7 +3,7 @@ id: 137
 title: Calgary Roughnecks at San Jose Stealth January 9th Game Preview
 date: 2009-01-09T03:05:01+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Roughnecks

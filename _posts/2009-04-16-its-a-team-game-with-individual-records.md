@@ -3,7 +3,7 @@ id: 214
 title: 'It&#8217;s a Team Game with Individual Records'
 date: 2009-04-16T23:44:27+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
 ---

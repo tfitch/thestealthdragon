@@ -3,7 +3,7 @@ id: 12
 title: NLL All-Star Game’s Fan Fest not a Fun Fest
 date: 2007-03-16T22:34:44+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
 ---

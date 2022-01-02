@@ -3,7 +3,7 @@ id: 60
 title: Lumberjax vs. Edmonton Rush March 1st Preview
 date: 2008-02-29T23:29:50+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Lumberjax
   - NLL

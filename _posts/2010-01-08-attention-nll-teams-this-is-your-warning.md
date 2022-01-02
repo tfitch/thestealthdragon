@@ -3,7 +3,7 @@ id: 269
 title: 'Attention NLL Teams:  This is your warning!'
 date: 2010-01-08T14:41:08+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Mammoth
   - NLL

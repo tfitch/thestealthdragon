@@ -3,7 +3,7 @@ id: 47
 title: Tree Sighting
 date: 2008-01-26T17:25:49+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Mammoth
 ---

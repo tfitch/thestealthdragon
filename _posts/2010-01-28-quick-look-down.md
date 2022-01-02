@@ -3,7 +3,7 @@ id: 306
 title: Quick, look down!
 date: 2010-01-28T00:45:22+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

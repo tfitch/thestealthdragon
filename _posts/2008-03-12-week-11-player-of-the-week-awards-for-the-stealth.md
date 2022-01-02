@@ -3,7 +3,7 @@ id: 64
 title: Week 11 Player of the Week awards for the Stealth
 date: 2008-03-12T21:22:29+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

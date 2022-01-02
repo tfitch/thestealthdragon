@@ -3,7 +3,7 @@ id: 216
 title: 2009 Western Division Semifinals Predictions
 date: 2009-04-29T20:27:09+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Lumberjax
   - Mammoth

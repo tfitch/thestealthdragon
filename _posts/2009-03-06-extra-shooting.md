@@ -3,7 +3,7 @@ id: 187
 title: Extra Shooting
 date: 2009-03-06T10:46:49+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth

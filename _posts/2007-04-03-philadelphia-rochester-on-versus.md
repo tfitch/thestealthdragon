@@ -3,7 +3,7 @@ id: 27
 title: Philadelphia @ Rochester on Versus
 date: 2007-04-03T11:28:50+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Knighthawks
   - NLL

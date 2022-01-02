@@ -3,7 +3,7 @@ id: 116
 title: Ryan Cousins had knee surgery
 date: 2009-01-04T00:33:13+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Swarm

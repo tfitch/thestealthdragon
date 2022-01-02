@@ -3,7 +3,7 @@ id: 62
 title: Stealth @ Colorado Mammoth Preview March 8th
 date: 2008-03-07T19:41:48+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - Mammoth
   - NLL

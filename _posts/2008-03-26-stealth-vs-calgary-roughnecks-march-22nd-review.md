@@ -3,7 +3,7 @@ id: 70
 title: Stealth vs. Calgary Roughnecks March 22nd Review
 date: 2008-03-26T23:04:41+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Roughnecks

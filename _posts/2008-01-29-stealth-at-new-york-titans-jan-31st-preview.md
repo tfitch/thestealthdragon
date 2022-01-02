@@ -3,7 +3,7 @@ id: 52
 title: Stealth at New York Titans Jan. 31st Preview
 date: 2008-01-29T23:56:03+00:00
 author: tfitch
-layout: page
+layout: post
 categories:
   - NLL
   - Stealth
