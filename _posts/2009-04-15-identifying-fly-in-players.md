@@ -18,4 +18,4 @@ Q: How do you tell the two types of players apart in San Jose?
 
 A: The white legged players typically fly in.<figure id="attachment_212" aria-describedby="caption-attachment-212" style="width: 500px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-212" title="img_0890-copy" src="http://www.thestealthdragon.com/wp-content/uploads/2009/04/img_0890-copy.jpg" alt="San Jose Stealth Defender Mike Kirk" width="500" height="375" />](http://www.thestealthdragon.com/wp-content/uploads/2009/04/img_0890-copy.jpg)<figcaption id="caption-attachment-212" class="wp-caption-text">San Jose Stealth Defender Mike Kirk's pasty white legs</figcaption></figure>
+[<img class="size-full wp-image-212" title="img_0890-copy" src="http://thestealthdragon.com/wp-content/uploads/2009/04/img_0890-copy.jpg" alt="San Jose Stealth Defender Mike Kirk" width="500" height="375" />](http://thestealthdragon.com/wp-content/uploads/2009/04/img_0890-copy.jpg)<figcaption id="caption-attachment-212" class="wp-caption-text">San Jose Stealth Defender Mike Kirk's pasty white legs</figcaption></figure>

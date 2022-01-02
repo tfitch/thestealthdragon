@@ -8,7 +8,7 @@ categories:
   - Stealth
   - WLA
 ---
-<figure id="attachment_258" aria-describedby="caption-attachment-258" style="width: 93px" class="wp-caption alignright"><img class="size-full wp-image-258" title="coach_walt" src="http://www.thestealthdragon.com/wp-content/uploads/2009/12/coach_walt.jpg" alt="Walt Christianson (picture from victoriashamrocks.ca)" width="93" height="125" /><figcaption id="caption-attachment-258" class="wp-caption-text">Walt Christianson (picture from victoriashamrocks.ca)</figcaption></figure> 
+<figure id="attachment_258" aria-describedby="caption-attachment-258" style="width: 93px" class="wp-caption alignright"><img class="size-full wp-image-258" title="coach_walt" src="http://thestealthdragon.com/wp-content/uploads/2009/12/coach_walt.jpg" alt="Walt Christianson (picture from victoriashamrocks.ca)" width="93" height="125" /><figcaption id="caption-attachment-258" class="wp-caption-text">Walt Christianson (picture from victoriashamrocks.ca)</figcaption></figure> 
 
 &#8230; in Victoria.
 

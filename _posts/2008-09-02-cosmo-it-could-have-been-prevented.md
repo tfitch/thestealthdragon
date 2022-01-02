@@ -15,7 +15,7 @@ tags:
 ---
 I definitely needed to think about the Cosmo trade for several days before I felt I could write it up.  My main point of concern with the trade of Anthony Cosmo from San Jose to Chicago isn&#8217;t related to the movement of the players involved but the player was traded almost purely because he has a life outside of lacrosse.<figure id="attachment_85" aria-describedby="caption-attachment-85" style="width: 273px" class="wp-caption alignright">
 
-[<img class="size-full wp-image-85  " title="1051331_439232734" src="http://www.thestealthdragon.com/wp-content/uploads/2008/09/1051331_439232734.jpg" alt="Anthony Cosmo" width="273" height="273" />](http://www.thestealthdragon.com/wp-content/uploads/2008/09/1051331_439232734.jpg)<figcaption id="caption-attachment-85" class="wp-caption-text">Anthony Cosmo</figcaption></figure> 
+[<img class="size-full wp-image-85  " title="1051331_439232734" src="http://thestealthdragon.com/wp-content/uploads/2008/09/1051331_439232734.jpg" alt="Anthony Cosmo" width="273" height="273" />](http://thestealthdragon.com/wp-content/uploads/2008/09/1051331_439232734.jpg)<figcaption id="caption-attachment-85" class="wp-caption-text">Anthony Cosmo</figcaption></figure> 
 
 If Cosmo made his living as a lacrosse goalie and only as a lacrosse goalie he would not have been traded to Chicago.  He would have said, I&#8217;ll take the California winters with my wife and my team and beat the holy hell outta all the other teams in the league.
 

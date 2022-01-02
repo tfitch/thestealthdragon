@@ -11,7 +11,7 @@ tags:
   - Offense
   - Stealth
 ---
-<figure id="attachment_132" aria-describedby="caption-attachment-132" style="width: 100px" class="wp-caption alignright">[<img class="size-full wp-image-132" title="stealthlogo" src="http://www.thestealthdragon.com/wp-content/uploads/2009/01/stealthlogo.gif" alt="San Jose Stealth" width="100" height="100" />](http://www.thestealthdragon.com/wp-content/uploads/2009/01/stealthlogo.gif)<figcaption id="caption-attachment-132" class="wp-caption-text">San Jose Stealth</figcaption></figure> 
+<figure id="attachment_132" aria-describedby="caption-attachment-132" style="width: 100px" class="wp-caption alignright">[<img class="size-full wp-image-132" title="stealthlogo" src="http://thestealthdragon.com/wp-content/uploads/2009/01/stealthlogo.gif" alt="San Jose Stealth" width="100" height="100" />](http://thestealthdragon.com/wp-content/uploads/2009/01/stealthlogo.gif)<figcaption id="caption-attachment-132" class="wp-caption-text">San Jose Stealth</figcaption></figure> 
 
 In: Rhys &#8220;The Mustard&#8221; Duch*, Alex Turner, Michael Doneger
 

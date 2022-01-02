@@ -15,7 +15,7 @@ tags:
 ---
 <dl id="attachment_99" class="wp-caption alignleft" style="width: 70px;">
   <dt class="wp-caption-dt">
-    <a href="http://www.thestealthdragon.com/wp-content/uploads/2008/12/chicav.gif"><img class="size-full wp-image-99" title="Shamrox Avatar" src="http://www.thestealthdragon.com/wp-content/uploads/2008/12/chicav.gif" alt="Chicago Shamrox" width="60" height="60" /></a>
+    <a href="http://thestealthdragon.com/wp-content/uploads/2008/12/chicav.gif"><img class="size-full wp-image-99" title="Shamrox Avatar" src="http://thestealthdragon.com/wp-content/uploads/2008/12/chicav.gif" alt="Chicago Shamrox" width="60" height="60" /></a>
   </dt>
 </dl>
 

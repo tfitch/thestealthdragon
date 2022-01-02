@@ -14,7 +14,7 @@ tags:
   - Reebok
   - Under Armour
 ---
-<figure id="attachment_279" aria-describedby="caption-attachment-279" style="width: 150px" class="wp-caption alignright"><img class="size-thumbnail wp-image-279" title="reebok-logo-final" src="http://www.thestealthdragon.com/wp-content/uploads/2010/01/reebok-logo-final-150x150.jpg" alt="Reebok - the only gear on the turf" width="150" height="150" /><figcaption id="caption-attachment-279" class="wp-caption-text">Reebok  
+<figure id="attachment_279" aria-describedby="caption-attachment-279" style="width: 150px" class="wp-caption alignright"><img class="size-thumbnail wp-image-279" title="reebok-logo-final" src="http://thestealthdragon.com/wp-content/uploads/2010/01/reebok-logo-final-150x150.jpg" alt="Reebok - the only gear on the turf" width="150" height="150" /><figcaption id="caption-attachment-279" class="wp-caption-text">Reebok  
 The only gear on the turf</figcaption></figure> 
 
 In both the NLL and the NFL, Reebok is the official equipment sponsor.  Like the NLL the NFL requires players to wear Reebok gear, but in the NFL if a player has an endorsement deal with Nike then the player can wear Nike shoes.  Currently, the NLL players must use all Reebok gear all the time.

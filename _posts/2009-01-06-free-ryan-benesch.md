@@ -16,7 +16,7 @@ tags:
   - NLL
   - Rock
 ---
-<figure id="attachment_125" aria-describedby="caption-attachment-125" style="width: 150px" class="wp-caption alignright">[<img class="size-thumbnail wp-image-125" title="ryan_benesch" src="http://www.thestealthdragon.com/wp-content/uploads/2009/01/ryan_benesch-150x150.jpg" alt="Toronto Rock Forward Ryan Benesch" width="150" height="150" />](http://www.thestealthdragon.com/wp-content/uploads/2009/01/ryan_benesch.jpg)<figcaption id="caption-attachment-125" class="wp-caption-text">Toronto Rock Forward  
+<figure id="attachment_125" aria-describedby="caption-attachment-125" style="width: 150px" class="wp-caption alignright">[<img class="size-thumbnail wp-image-125" title="ryan_benesch" src="http://thestealthdragon.com/wp-content/uploads/2009/01/ryan_benesch-150x150.jpg" alt="Toronto Rock Forward Ryan Benesch" width="150" height="150" />](http://thestealthdragon.com/wp-content/uploads/2009/01/ryan_benesch.jpg)<figcaption id="caption-attachment-125" class="wp-caption-text">Toronto Rock Forward  
 Ryan Benesch</figcaption></figure> 
 
 The NLL&#8217;s 2007 Rookie of the Year, and <a href="http://www.nll.com/article.php?id=2629" target="_blank" rel="noopener noreferrer">briefly Stealth player</a>, Ryan Benesch needs a home.  The Portland Lumberjax need some scoring.  See the connection here?  The question is, how do we get from Ryan Benesch being on the bench in Toronto to being on the floor in Portland?  Thanks to a suggestion from a loyal reader in Portland my answer involves Pete Jacobs and picks the Portland Lumberjax may or may not have (since I haven&#8217;t kept track of what picks they still have).

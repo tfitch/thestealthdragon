@@ -12,7 +12,7 @@ tags:
   - Stealth
   - Video
 ---
-In an attempt to help alleviate issues in finding the proper feed for the road games I&#8217;ve added a new page to the site that can be found in the top navigation called &#8220;[Watch the Stealth](http://www.thestealthdragon.com/?page_id=171)&#8220;. It will always have the Stealth feed on it where you can watch Stealth highlights, live Stealth home games and all previous 2009 Stealth home games On Demand. For road games I&#8217;ll rotate in the necessary feeds to watch the road games live.
+In an attempt to help alleviate issues in finding the proper feed for the road games I&#8217;ve added a new page to the site that can be found in the top navigation called &#8220;[Watch the Stealth](http://thestealthdragon.com/?page_id=171)&#8220;. It will always have the Stealth feed on it where you can watch Stealth highlights, live Stealth home games and all previous 2009 Stealth home games On Demand. For road games I&#8217;ll rotate in the necessary feeds to watch the road games live.
 
 I think the On Demand is the best feature.
 

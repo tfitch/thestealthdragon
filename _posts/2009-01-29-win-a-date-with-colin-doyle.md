@@ -14,7 +14,7 @@ tags:
   - Rush
   - Stealth
 ---
-<figure id="attachment_161" aria-describedby="caption-attachment-161" style="width: 150px" class="wp-caption alignright">[<img class="size-thumbnail wp-image-161" title="colin_doyle" src="http://www.thestealthdragon.com/wp-content/uploads/2009/01/colin_doyle-150x150.png" alt="Colin Doyle" width="150" height="150" />](http://www.thestealthdragon.com/wp-content/uploads/2009/01/colin_doyle.png)<figcaption id="caption-attachment-161" class="wp-caption-text">Colin Doyle</figcaption></figure> 
+<figure id="attachment_161" aria-describedby="caption-attachment-161" style="width: 150px" class="wp-caption alignright">[<img class="size-thumbnail wp-image-161" title="colin_doyle" src="http://thestealthdragon.com/wp-content/uploads/2009/01/colin_doyle-150x150.png" alt="Colin Doyle" width="150" height="150" />](http://thestealthdragon.com/wp-content/uploads/2009/01/colin_doyle.png)<figcaption id="caption-attachment-161" class="wp-caption-text">Colin Doyle</figcaption></figure> 
 
 **When:** Saturday January 31st 2009
 

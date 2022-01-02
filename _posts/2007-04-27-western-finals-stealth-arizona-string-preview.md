@@ -9,7 +9,7 @@ categories:
   - Stealth
   - Sting
 ---
-Well, not too much different to be said about this match up than <a href="http://www.thestealthdragon.com/?p=23" target="_new" rel="noopener noreferrer">the previous game there</a>.
+Well, not too much different to be said about this match up than <a href="http://thestealthdragon.com/stealth-arizona-sting-review/" target="_new" rel="noopener noreferrer">the previous game there</a>.
 
 The stakes have increased to a Division Title though. That&#8217;s just a little bit of incentive for both teams to win.
 

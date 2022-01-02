@@ -15,7 +15,7 @@ tags:
   - Rush
   - Stealth
 ---
-<figure id="attachment_223" aria-describedby="caption-attachment-223" style="width: 116px" class="wp-caption alignright"><img class="size-full wp-image-223" title="Ian Hawksbee" src="http://www.thestealthdragon.com/wp-content/uploads/2009/11/hawksbee.jpg" alt="Ian Hawksbee" width="116" height="116" /><figcaption id="caption-attachment-223" class="wp-caption-text">Former (and hopefully future) Stealth defender Ian Hawksbee</figcaption></figure>  
+<figure id="attachment_223" aria-describedby="caption-attachment-223" style="width: 116px" class="wp-caption alignright"><img class="size-full wp-image-223" title="Ian Hawksbee" src="http://thestealthdragon.com/wp-content/uploads/2009/11/hawksbee.jpg" alt="Ian Hawksbee" width="116" height="116" /><figcaption id="caption-attachment-223" class="wp-caption-text">Former (and hopefully future) Stealth defender Ian Hawksbee</figcaption></figure>  
 Dear Coach Keenan: 
 
 I&#8217;ve noticed you&#8217;ve been reassembling several of your former Portland Lumberjax players up in Edmonton over the summer.

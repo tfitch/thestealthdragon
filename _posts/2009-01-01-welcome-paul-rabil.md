@@ -13,7 +13,7 @@ tags:
   - Rabil
   - Stealth
 ---
-After <a href="http://www.thestealthdragon.com/?p=96" target="_blank" rel="noopener noreferrer">what I said</a> when Paul Rabil and Kevin Huntley were not signed to contracts I feel obligated to follow up on the situation and say
+After <a href="http://thestealthdragon.com/hey-rabil-huntley/" target="_blank" rel="noopener noreferrer">what I said</a> when Paul Rabil and Kevin Huntley were not signed to contracts I feel obligated to follow up on the situation and say
 
 &#8220;HEY HUNTLEY!  Please sign your contract and get your ass to practice!&#8221;  You get paid to pay lacrosse.  Where&#8217;s the issue?  Do you know how much the average lax player like myself has shelled out over my life so that I could play?  Driving, flying, hotels, gear.  When was the last time you paid for a stick?  You&#8217;re creating problems where there aren&#8217;t any.  Please come to San Jose and kick start your indoor career.
 

@@ -34,7 +34,7 @@ Finally &#8211; ranking does not account for the games already played on Friday 
 
 **Calgary Rank: 1.4**<figure id="attachment_139" aria-describedby="caption-attachment-139" style="width: 100px" class="wp-caption alignleft">
 
-[<img class="size-thumbnail wp-image-139" title="calgary" src="http://www.thestealthdragon.com/wp-content/uploads/2009/01/calgary.gif" alt="Calgary Roughnecks" width="100" height="100" />](http://www.thestealthdragon.com/wp-content/uploads/2009/01/calgary.gif)<figcaption id="caption-attachment-139" class="wp-caption-text">Calgary Roughnecks</figcaption></figure> 
+[<img class="size-thumbnail wp-image-139" title="calgary" src="http://thestealthdragon.com/wp-content/uploads/2009/01/calgary.gif" alt="Calgary Roughnecks" width="100" height="100" />](http://thestealthdragon.com/wp-content/uploads/2009/01/calgary.gif)<figcaption id="caption-attachment-139" class="wp-caption-text">Calgary Roughnecks</figcaption></figure> 
 
 **laxinoregon:** Rank: 1 &#8211; Sure they lost two in a row, they are still healthy and because of that they are a right scary team.  
 **zymstere:** Rank: 2 &#8211; Because of their recent losses and the close games they have had all season. Campbell in cage has been average at best. As you mentioned before, they peaked at the beginning of the season and is one injury away from being a bottom feeder.  
@@ -44,7 +44,7 @@ Finally &#8211; ranking does not account for the games already played on Friday 
 
 **Portland Rank: 1.6**<figure id="attachment_155" aria-describedby="caption-attachment-155" style="width: 100px" class="wp-caption alignleft">
 
-[<img class="size-thumbnail wp-image-155" title="portland" src="http://www.thestealthdragon.com/wp-content/uploads/2009/01/portland.gif" alt="Portland Lumberjax" width="100" height="100" />](http://www.thestealthdragon.com/wp-content/uploads/2009/01/portland.gif)<figcaption id="caption-attachment-155" class="wp-caption-text">Portland Lumberjax</figcaption></figure> 
+[<img class="size-thumbnail wp-image-155" title="portland" src="http://thestealthdragon.com/wp-content/uploads/2009/01/portland.gif" alt="Portland Lumberjax" width="100" height="100" />](http://thestealthdragon.com/wp-content/uploads/2009/01/portland.gif)<figcaption id="caption-attachment-155" class="wp-caption-text">Portland Lumberjax</figcaption></figure> 
 
 **laxinoregon:** Rank 2 &#8211; Best defense in the West. Only question is can Disher maintain his form for the remainder of the games. Disher goes down, good night Irene.  
 **zymstere:** Rank 1 &#8211; Because the D has been consistent from game one and their O has been getting better each game. Morgan, Conway and Malawsky has been the back bone. Of course you can&#8217;t help but mention Merrill the human loose ball vaccum.  
@@ -54,7 +54,7 @@ Finally &#8211; ranking does not account for the games already played on Friday 
 
 **San Jose Rank: 3.2**<figure id="attachment_132" aria-describedby="caption-attachment-132" style="width: 100px" class="wp-caption alignleft">
 
-[<img class="size-thumbnail wp-image-132" title="stealthlogo" src="http://www.thestealthdragon.com/wp-content/uploads/2009/01/stealthlogo.gif" alt="San Jose Stealth" width="100" height="100" />](http://www.thestealthdragon.com/wp-content/uploads/2009/01/stealthlogo.gif)<figcaption id="caption-attachment-132" class="wp-caption-text">San Jose Stealth</figcaption></figure> 
+[<img class="size-thumbnail wp-image-132" title="stealthlogo" src="http://thestealthdragon.com/wp-content/uploads/2009/01/stealthlogo.gif" alt="San Jose Stealth" width="100" height="100" />](http://thestealthdragon.com/wp-content/uploads/2009/01/stealthlogo.gif)<figcaption id="caption-attachment-132" class="wp-caption-text">San Jose Stealth</figcaption></figure> 
 
 **laxinoregon:** Rank 3 &#8211; At 3-4 San Jose is better than their record, but not by much. They still have a lot of questions concerning their defense, but they are starting to gel together.  
 **zymstere:** Rank 3 &#8211; Stealth had their most complete game on both sides of the floor. The cast of rookies are improving with every shift. Gillespie, Hartzell and Manney have been more than capable and it showed this weekend against the Mammoth. The addition to McKinlay and Veltman now available for the roster will only help the D/T. O has been solid with contributions from Doyle, Wick, Duch and TJ not to mention Cam. The current trip to NY & Boston should help prove this point.  
@@ -64,7 +64,7 @@ Finally &#8211; ranking does not account for the games already played on Friday 
 
 **Colorado Rank: 4**<figure id="attachment_153" aria-describedby="caption-attachment-153" style="width: 100px" class="wp-caption alignleft">
 
-[<img class="size-thumbnail wp-image-153" title="colorado" src="http://www.thestealthdragon.com/wp-content/uploads/2009/01/colorado.gif" alt="Colorado Mammoth" width="100" height="100" />](http://www.thestealthdragon.com/wp-content/uploads/2009/01/colorado.gif)<figcaption id="caption-attachment-153" class="wp-caption-text">Colorado Mammoth</figcaption></figure> 
+[<img class="size-thumbnail wp-image-153" title="colorado" src="http://thestealthdragon.com/wp-content/uploads/2009/01/colorado.gif" alt="Colorado Mammoth" width="100" height="100" />](http://thestealthdragon.com/wp-content/uploads/2009/01/colorado.gif)<figcaption id="caption-attachment-153" class="wp-caption-text">Colorado Mammoth</figcaption></figure> 
 
 **laxinoregon:** Rank 4 &#8211; What is their identity? In years past it was crisp offensive excecution and transition. Now both are gone, and it&#8217;s all down hill.  
 **zymstere:** Rank 4 &#8211; Colorado is still a dangerous team and with them playing at the can will help stabilize their struggles. Leyson may loose his position as #1 tender. Colorado needs to re-group from a horrible weekend and Pawlidor may be the answer. Langtry and Prout will need to get things going if they want a spot in the playoffs.  
@@ -74,7 +74,7 @@ Finally &#8211; ranking does not account for the games already played on Friday 
 
 **Edmonton Rank: 5.2**<figure id="attachment_154" aria-describedby="caption-attachment-154" style="width: 100px" class="wp-caption alignleft">
 
-[<img class="size-thumbnail wp-image-154" title="edmonton" src="http://www.thestealthdragon.com/wp-content/uploads/2009/01/edmonton.gif" alt="Edmonton Rush" width="100" height="100" />](http://www.thestealthdragon.com/wp-content/uploads/2009/01/edmonton.gif)<figcaption id="caption-attachment-154" class="wp-caption-text">Edmonton Rush</figcaption></figure> 
+[<img class="size-thumbnail wp-image-154" title="edmonton" src="http://thestealthdragon.com/wp-content/uploads/2009/01/edmonton.gif" alt="Edmonton Rush" width="100" height="100" />](http://thestealthdragon.com/wp-content/uploads/2009/01/edmonton.gif)<figcaption id="caption-attachment-154" class="wp-caption-text">Edmonton Rush</figcaption></figure> 
 
 **laxinoregon:** Rank 6 &#8211; Look it&#8217;s good to have 3 wins, two against Colorado, but until the consistently do something they&#8217;re going to sit at the bottom spot.  
 **zymstere:** Rank 5 &#8211;  Edmonton has all the pieces in place to be a contender, they just need the confidence that they can compete.  
@@ -84,7 +84,7 @@ Finally &#8211; ranking does not account for the games already played on Friday 
 
 **Minnesota Rank: 5.6**<figure id="attachment_144" aria-describedby="caption-attachment-144" style="width: 100px" class="wp-caption alignleft">
 
-[<img class="size-thumbnail wp-image-144" title="minnesota" src="http://www.thestealthdragon.com/wp-content/uploads/2009/01/minnesota.gif" alt="Minnesota Swarm" width="100" height="100" />](http://www.thestealthdragon.com/wp-content/uploads/2009/01/minnesota.gif)<figcaption id="caption-attachment-144" class="wp-caption-text">Minnesota Swarm</figcaption></figure> 
+[<img class="size-thumbnail wp-image-144" title="minnesota" src="http://thestealthdragon.com/wp-content/uploads/2009/01/minnesota.gif" alt="Minnesota Swarm" width="100" height="100" />](http://thestealthdragon.com/wp-content/uploads/2009/01/minnesota.gif)<figcaption id="caption-attachment-144" class="wp-caption-text">Minnesota Swarm</figcaption></figure> 
 
 **laxinoregon:** The West isn&#8217;t what you thought it was and your Eastern foes aren&#8217;t laying down either. Offense needs help and 2 good defenders does not make a good defense.  
 **zymstere:** Minneapolis is in total disarray. They trade their leader in scoring 2008 (Craig Point) and Cousins has been mediocre. Croswell & Patterson has been solid in net to start the season but the O has not been able to lay the hammer down.  

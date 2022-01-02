@@ -9,7 +9,7 @@ categories:
   - NLL
   - Stealth
 ---
-<figure id="attachment_275" aria-describedby="caption-attachment-275" style="width: 200px" class="wp-caption alignright"><img class="size-full wp-image-275" title="rabil_2010" src="http://www.thestealthdragon.com/wp-content/uploads/2010/01/rabil_2010.jpg" alt="Paul Rabil (image from nll.com)" width="200" height="250" /><figcaption id="caption-attachment-275" class="wp-caption-text">Paul Rabil (image from nll.com)</figcaption></figure> 
+<figure id="attachment_275" aria-describedby="caption-attachment-275" style="width: 200px" class="wp-caption alignright"><img class="size-full wp-image-275" title="rabil_2010" src="http://thestealthdragon.com/wp-content/uploads/2010/01/rabil_2010.jpg" alt="Paul Rabil (image from nll.com)" width="200" height="250" /><figcaption id="caption-attachment-275" class="wp-caption-text">Paul Rabil (image from nll.com)</figcaption></figure> 
 
 The Stealth have a player on the team that fans may not recognize from last season.
 

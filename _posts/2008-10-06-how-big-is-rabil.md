@@ -14,7 +14,7 @@ tags:
 ---
 Stealth GM Johnny Mouradian doesn&#8217;t even come up to Paul Rabil&#8217;s chin.<figure id="attachment_91" aria-describedby="caption-attachment-91" style="width: 286px" class="wp-caption alignleft">
 
-[<img class="size-full wp-image-91" title="992" src="http://www.thestealthdragon.com/wp-content/uploads/2008/10/992.jpg" alt="Johnny Mouradian, Paul Rabil and Jim Jennings" width="286" height="156" />](http://www.thestealthdragon.com/wp-content/uploads/2008/10/992.jpg)<figcaption id="caption-attachment-91" class="wp-caption-text">Johnny Mouradian, Paul Rabil and Jim Jennings</figcaption></figure> 
+[<img class="size-full wp-image-91" title="992" src="http://thestealthdragon.com/wp-content/uploads/2008/10/992.jpg" alt="Johnny Mouradian, Paul Rabil and Jim Jennings" width="286" height="156" />](http://thestealthdragon.com/wp-content/uploads/2008/10/992.jpg)<figcaption id="caption-attachment-91" class="wp-caption-text">Johnny Mouradian, Paul Rabil and Jim Jennings</figcaption></figure> 
 
 Watch out everyone, the sky&#8217;s the limit for Rabil.
 

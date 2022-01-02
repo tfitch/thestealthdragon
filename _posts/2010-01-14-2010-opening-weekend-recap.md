@@ -17,7 +17,7 @@ tags:
   - Stealth
   - Zywicki
 ---
-**<img class="size-full wp-image-293 alignright" title="stealth_logo_horizWA_sm" src="http://www.thestealthdragon.com/wp-content/uploads/2010/01/stealth_logo_horizWA_sm.png" alt="Washington Stealth" width="333" height="126" />**
+**<img class="size-full wp-image-293 alignright" title="stealth_logo_horizWA_sm" src="http://thestealthdragon.com/wp-content/uploads/2010/01/stealth_logo_horizWA_sm.png" alt="Washington Stealth" width="333" height="126" />**
 
 **What a great opening night for the Washington Stealth!**
 
@@ -35,7 +35,7 @@ Similar to the Stealth, the Colorado Mammoth made a number of roster changes inv
 
  ****<figure id="attachment_295" aria-describedby="caption-attachment-295" style="width: 150px" class="wp-caption alignleft">
 
-****<img class="size-thumbnail wp-image-295" title="matt_beers" src="http://www.thestealthdragon.com/wp-content/uploads/2010/01/matt_beers-150x150.jpg" alt="Stealth Rookie Matt Beers" width="150" height="150" />****<figcaption id="caption-attachment-295" class="wp-caption-text">Stealth Rookie Matt Beers</figcaption></figure> 
+****<img class="size-thumbnail wp-image-295" title="matt_beers" src="http://thestealthdragon.com/wp-content/uploads/2010/01/matt_beers-150x150.jpg" alt="Stealth Rookie Matt Beers" width="150" height="150" />****<figcaption id="caption-attachment-295" class="wp-caption-text">Stealth Rookie Matt Beers</figcaption></figure> 
 
 **Rookie Welcomings:**
 
@@ -43,7 +43,7 @@ How about Stealth rookie Matt Beers (#2) bursting onto the scene.  To quote a c
 
 The Colorado Mammoth played with five rookies on the floor.  The <a href="http://www.bclocalnews.com/greater_vancouver/newwestminsternewsleader/sports/58574502.html" target="_blank" rel="noopener noreferrer">Gajic brothers</a> who are really only rookies in name because they&#8217;ve been playing successful lacrosse at the highest levels in Canada for a couple of years, Cliff Smith who is their teammate on New Westminster, Brad Richardson who I&#8217;m pretty sure is a rookie (and fought Eric Martin (#25)) and finally Ryan McFadyen who is a whole lot bigger in person than he looked on TV while playing for Duke.<figure id="attachment_291" aria-describedby="caption-attachment-291" style="width: 150px" class="wp-caption alignright">
 
-**<img class="size-thumbnail wp-image-291" title="richards_2010" src="http://www.thestealthdragon.com/wp-content/uploads/2010/01/richards_2010-150x150.jpg" alt="Stealth Goalie Tyler RIchards" width="150" height="150" />**<figcaption id="caption-attachment-291" class="wp-caption-text">Stealth Goalie Tyler Richards</figcaption></figure> 
+**<img class="size-thumbnail wp-image-291" title="richards_2010" src="http://thestealthdragon.com/wp-content/uploads/2010/01/richards_2010-150x150.jpg" alt="Stealth Goalie Tyler RIchards" width="150" height="150" />**<figcaption id="caption-attachment-291" class="wp-caption-text">Stealth Goalie Tyler Richards</figcaption></figure> 
 
 **Game MVP:**
 
